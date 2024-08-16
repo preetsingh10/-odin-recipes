@@ -1,0 +1,39 @@
+.container{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 15px;
+    background-color: hsla(0, 0%, 100%, 0.823);
+    width: 500px;
+    margin: 0 auto;
+}
+img{
+
+   display: flex;
+   justify-content: flex-end;
+   width: 500px;
+   height: auto;
+   
+    
+}
+.title{
+    text-align: center;
+    background-color: rgb(40, 222, 8);
+    color: black;
+}
+.recipe-container{
+    
+    font-size: 22px;
+    color: black;
+}
+a{
+    color: black;
+    display: inline-block;
+    
+    
+}
+
+.footer{
+    width:500;
+    display: flex;
+    justify-content: space-between;
+    
+}
